@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "TemplateAPINet10",
+  "classifications": ["Web", "API", "Clean Architecture", "UseCaseCore", "Dapper"],
+  "description": "A clean .NET 10 Web API template with UseCaseCore, Minimal APIs, Dapper repository skeleton, and global exception handling",
+  "identity": "TemplateAPINet10",
+  "name": "Clean API .NET 10 Template",
+  "shortName": "apiclean10",
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  },
+  "sourceName": "TemplateAPINet10",
+  "preferNameDirectory": true
+}

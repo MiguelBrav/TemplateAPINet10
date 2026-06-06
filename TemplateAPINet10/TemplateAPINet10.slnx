@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/" />
+  <Project Path="../TemplateAPINet10.Domain/TemplateAPINet10.Domain.csproj" />
+  <Project Path="../TemplateAPINet10.Infrastructure/TemplateAPINet10.Infrastructure.csproj" />
+  <Project Path="../TemplateAPINet10.Models/TemplateAPINet10.Models.csproj" />
+  <Project Path="TemplateAPINet10.csproj" />
+</Solution>

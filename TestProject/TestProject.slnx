@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../TemplateaAPINet10.Infrastructure/TestProject.Infrastructure.csproj" />
+  <Project Path="../TestProject.Domain/TestProject.Domain.csproj" />
+  <Project Path="../TestProject.Models/TestProject.Models.csproj" />
+  <Project Path="TestProject.csproj" />
+</Solution>
